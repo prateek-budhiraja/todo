@@ -51,3 +51,7 @@ html > body {
   color: #3c6382;
 }
 
+.checked {
+  opacity: .5;
+  text-decoration: line-through;
+}
